@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "307235533210",
+    "project_id": "faceanalysisapp-6e9de",
+    "storage_bucket": "faceanalysisapp-6e9de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307235533210:android:c0f83b11afabac12ca0a23",
+        "android_client_info": {
+          "package_name": "com.amaromerovic.faceanalysisapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307235533210-9mbkimms95nkgecrqvjoterlmn306eb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYvxC1X2ftubIomUvHgekZUES2iqcBoKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307235533210-9mbkimms95nkgecrqvjoterlmn306eb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
